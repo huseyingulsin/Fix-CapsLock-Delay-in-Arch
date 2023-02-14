@@ -1,5 +1,5 @@
 # Fix-CapsLock-Delay-in-Linux-Distros
-This is a common keyboard delay problem in Linux distros. 
+  This is a common CapsLock delay problem in Linux distros. 
 
 ## Is it a bug/mistake?
 Actually this predefined structure comes from early typewriters. My script configures XKB (X Keyboard Extension) file. 
